@@ -1,6 +1,6 @@
 {
   "name": "dva-model-combo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility method to combo dva model.",
   "main": "lib/index.js",
   "files": [
