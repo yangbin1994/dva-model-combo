@@ -1,3 +1,4 @@
+[see it pre use](https://github.com/dvajs/dva-model-extend/issues/2#issuecomment-336608205)
 # dva-model-combo
 
 [![](https://img.shields.io/travis/yangbin1994/dva-model-combo.svg?style=flat-square)](https://travis-ci.org/yangbin1994/dva-model-combo)
